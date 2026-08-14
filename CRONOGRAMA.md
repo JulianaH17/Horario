@@ -2,32 +2,32 @@
 
 > Planejamento semanal das atividades, estudos e projetos que serão desenvolvidos durante o NPI, no período da tarde. Este cronograma é atualizado toda semana conforme as minhas demandas e o desenvolvimento de novos projetos.
 
-## Semana: 02/08/2026 a 08/08/2026
+## Semana: 09/08/2026 a 15/08/2026
 
 ```text
 SEGUNDA
 □ Monitoria Londrinense Tech
 □ Relatório da monitoria
-□ Revisão da matéria de Banco de Dados
+□ 
 
 TERÇA
-□ Planejamento do cronograma
-□ 
-□
+□ Atividade montagem de árvore B+
+□ Construção do artigo da aula de PI
+□ Revisão BD Lock e Deadlock
 
 QUARTA
 □ Monitoria Pensamento Computacional
 □ Relatório da monitoria
-□ Auxilio na atividade de POO da Victoria
+□ 
 
 QUINTA
-□ Atividade Diagrama Caso de Uso
-□ Responder questionário no site do Professor Robson
-□ Inicio do projeto "GymManagementSystem"
+□ Diagrama de Caso de Uso do projeto
+□ Reunião com Luiz Felipe (CT)
+□ 
 
 SEXTA
-□ Continuação do projeto "GymManagementSystem"
-□ Estudo de Spring Boot (Java)
+□ Atividade Diagrama de Classe
+□ Organização do Solveathon SESCAP
 □
 ```
 
