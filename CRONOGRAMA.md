@@ -2,7 +2,7 @@
 
 > Planejamento semanal das atividades, estudos e projetos que serão desenvolvidos durante o NPI, no período da tarde. Este cronograma é atualizado toda semana conforme as minhas demandas e o desenvolvimento de novos projetos.
 
-## Semana: 09/08/2026 a 15/08/2026
+## Semana: 16/08/2026 a 22/08/2026
 
 ```text
 SEGUNDA
@@ -11,23 +11,23 @@ SEGUNDA
 □ 
 
 TERÇA
-□ Atividade montagem de árvore B+
-□ Construção do artigo da aula de PI
-□ Revisão BD Lock e Deadlock
+□ Terminar as entregas para o hackathon do SESCAP
+□ Fazer slides no canva
+□ 
 
 QUARTA
 □ Monitoria Pensamento Computacional
 □ Relatório da monitoria
-□ 
+□ Mini reunião com o Luiz Felipe
 
 QUINTA
-□ Diagrama de Caso de Uso do projeto
-□ Reunião com Luiz Felipe (CT)
+□ Início da atividade de Diagrama de Sequência do Eron
+□ Continuação do artigo da aula de PI
 □ 
 
 SEXTA
-□ Atividade Diagrama de Classe
-□ Organização do Solveathon SESCAP
+□ Últimas provas da UCD
+□ 
 □
 ```
 
